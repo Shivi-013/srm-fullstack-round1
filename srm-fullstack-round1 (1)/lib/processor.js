@@ -1,7 +1,7 @@
 // ── Identity — update these before deploying ─────────────────────────────────
-export const USER_ID         = "johndoe_17091999";      // fullname_ddmmyyyy
-export const EMAIL_ID        = "john.doe@srmist.edu.in";
-export const COLLEGE_ROLL    = "21CS1001";
+export const USER_ID         = "sg3217";      
+export const EMAIL_ID        = "sg3217@srmist.edu.in";
+export const COLLEGE_ROLL    = "RA2311003010274";
 
 // ── Validation ───────────────────────────────────────────────────────────────
 const EDGE_RE = /^([A-Z])->([A-Z])$/;
