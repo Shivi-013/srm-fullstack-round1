@@ -1,4 +1,4 @@
-// ── Identity — update these before deploying ─────────────────────────────────
+// ── Identity — 
 export const USER_ID         = "sg3217";      
 export const EMAIL_ID        = "sg3217@srmist.edu.in";
 export const COLLEGE_ROLL    = "RA2311003010274";
